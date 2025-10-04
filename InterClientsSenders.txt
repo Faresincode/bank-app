@@ -1,0 +1,7 @@
+DE89370400440532013000#//#DEUTDEFF#//#John#//#Doe#//#13845.000000#//#EUR#//#Germany#//#Berlin#//#Mitte#//#Alexanderplatz 1#//#Deutsche Bank#//#Germany#//#Frankfurt#//#Center#//#Main Street 12#//#0.500000
+DE45500105175407327831#//#DEUTDEFF#//#Anna#//#Schmidt#//#7497.962402#//#EUR#//#Germany#//#Munich#//#Schwabing#//#Leopoldstrasse 45#//#Deutsche Bank#//#Germany#//#Frankfurt#//#Center#//#Main Street 12#//#0.500000
+DE98210501700012345678#//#DEUTDEFF#//#Markus#//#Weber#//#30196.490234#//#EUR#//#Germany#//#Hamburg#//#Altona#//#Reeperbahn 77#//#Deutsche Bank#//#Germany#//#Frankfurt#//#Center#//#Main Street 12#//#0.500000
+DE23100000001234567890#//#DEUTDEFF#//#Felix#//#Klein#//#9.550003#//#EUR#//#Germany#//#Cologne#//#Altstadt#//#Domstrasse 88#//#Deutsche Bank#//#Germany#//#Frankfurt#//#Center#//#Main Street 12#//#0.500000
+DE89370400440532013000#//#DEUTDEFF#//#John#//#Doe#//#15000.750000#//#EUR#//#Germany#//#Berlin#//#Mitte#//#Alexanderplatz 1#//#Deutsche Bank#//#Germany#//#Frankfurt#//#Center#//#Main Street 12#//#0.500000
+DE44500105175407324974#//#DEUTDEFF#//#Anna#//#Schmidt#//#8955.480469#//#EUR#//#Germany#//#Munich#//#Schwabing#//#Leopoldstrasse 45#//#Deutsche Bank#//#Germany#//#Frankfurt#//#Center#//#Main Street 12#//#0.500000
+DE98210501700012345678#//#DEUTDEFF#//#Markus#//#Weber#//#30500.000000#//#EUR#//#Germany#//#Hamburg#//#Altona#//#Reeperbahn 77#//#Deutsche Bank#//#Germany#//#Frankfurt#//#Center#//#Main Street 12#//#0.500000
