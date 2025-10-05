@@ -48,7 +48,7 @@ private:
 		string SenderIBAN = _ReadIBAN();
 		while (!clsBankClient::IsInterClientExist(SenderIBAN, SenderFileName))
 		{
-			cout <<setw(ScreenWidth)<<""<<left <<Yellow<< "Error No account with this IBAN§ try Again : ";
+			cout <<setw(ScreenWidth)<<""<<left <<Yellow<< "Error No account with this IBANÂ§ try Again : ";
 			SenderIBAN = _ReadIBAN();
 		}
 		clsBankClient::stInterTransferClientInfo RecipientInfo;
