@@ -9,9 +9,10 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 **Client Management**
 - Add, update, delete, and search clients
 - View client list with balances
-  <img width="800" height="400" alt="client-list-screnn" src="https://github.com/user-attachments/assets/b4f437ba-8277-40ff-aba0-f451e50d492f" />
-
 - Encrypted PIN storage
+
+<img width="800" height="400" alt="client-list-screnn" src="https://github.com/user-attachments/assets/b4f437ba-8277-40ff-aba0-f451e50d492f" />
+
 <img width="800" height="400" alt="main-menue-screen" src="https://github.com/user-attachments/assets/ad33cef2-fa33-4a5a-8011-acec01a62474" />
 
 
@@ -23,7 +24,9 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Transaction logging
 
 <img width="800" height="400" alt="transactions-menue-screen" src="https://github.com/user-attachments/assets/92c99169-8171-4f38-83b1-fea06fbdc64b" />
+
 - International transfers log screen
+  
 <img width="800" height="400" alt="international-transfer-log -screen" src="https://github.com/user-attachments/assets/fcf00454-c331-4c5e-9305-ebea23765b35" />
 
 
@@ -32,6 +35,7 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Real-time currency conversion
 - Exchange rate management
 - Currency calculator
+
 <img width="800" height="400" alt="currency-main-menue-screen" src="https://github.com/user-attachments/assets/62e8e8b0-207c-416d-91e3-77bef44efb71" />
 <img width="800" height="400" alt="currency-list-screen" src="https://github.com/user-attachments/assets/b3804415-9871-43fe-bbb8-a737bcc4fab7" />
 
@@ -43,6 +47,7 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Login/logout tracking
 - User activity monitoring
 - 3-attempt login limit
+
 <img width="800" height="400" alt="manage-user-menue-screen" src="https://github.com/user-attachments/assets/dea4cdb1-f581-4aa6-a30d-9d693199af6f" />
 
 **Reporting**
@@ -50,6 +55,7 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Transfer logs
 - Login history
 - User action tracking
+
 <img width="800" height="400" alt="transfer-log-list-screen" src="https://github.com/user-attachments/assets/18a5cf7f-82b7-43a8-acf4-bb98c887640f" />
 
 <img width="800" height="400" alt="login-register-screen" src="https://github.com/user-attachments/assets/0a95a43a-8e54-4b41-bea8-27fa57e713bd" />
