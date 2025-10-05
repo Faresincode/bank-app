@@ -8,6 +8,7 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Add, update, delete, and search clients
 - View client list with balances
 - Encrypted PIN storage
+<img width="800" height="400" alt="main-menue-screen" src="https://github.com/user-attachments/assets/ad33cef2-fa33-4a5a-8011-acec01a62474" />
 
 **Transactions**
 - Deposit and withdrawal operations
@@ -16,11 +17,15 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Currency conversion across 200+ currencies
 - Transaction logging
 
+<img width="800" height="400" alt="transactions-menue-screen" src="https://github.com/user-attachments/assets/92c99169-8171-4f38-83b1-fea06fbdc64b" />
+
 **Currency Exchange**
 - 200+ world currencies support
 - Real-time currency conversion
 - Exchange rate management
 - Currency calculator
+<img width="800" height="400" alt="currency-main-menue-screen" src="https://github.com/user-attachments/assets/62e8e8b0-207c-416d-91e3-77bef44efb71" />
+
 
 **User Management**
 - Multi-user authentication
@@ -29,12 +34,17 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Login/logout tracking
 - User activity monitoring
 - 3-attempt login limit
+<img width="800" height="400" alt="manage-user-menue-screen" src="https://github.com/user-attachments/assets/dea4cdb1-f581-4aa6-a30d-9d693199af6f" />
 
 **Reporting**
 - Total balances report
 - Transfer logs
 - Login history
 - User action tracking
+<img width="800" height="400" alt="transfer-log-list-screen" src="https://github.com/user-attachments/assets/18a5cf7f-82b7-43a8-acf4-bb98c887640f" />
+
+<img width="800" height="400" alt="login-register-screen" src="https://github.com/user-attachments/assets/0a95a43a-8e54-4b41-bea8-27fa57e713bd" />
+
 
 ## Getting Started
 
