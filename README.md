@@ -1,7 +1,8 @@
 # Bank Management System in C++
 A comprehensive C++ console banking system featuring 🔥 client management, multi-currency transactions, international transfers with IBAN/SWIFT validation, user authentication with role-based permissions, and complete transaction logging. 👌 Educational OOP project demonstrating file-based data persistence.
 
-**Login Screen**
+- Login Screen
+  
 <img width="800" height="400" alt="login-screen" src="https://github.com/user-attachments/assets/fecb6642-0d24-4e8b-a192-8e11c9aab237" />
 
 ## Features 🔥
@@ -37,6 +38,9 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Currency calculator
 
 <img width="800" height="400" alt="currency-main-menue-screen" src="https://github.com/user-attachments/assets/62e8e8b0-207c-416d-91e3-77bef44efb71" />
+
+- Currency list screen
+
 <img width="800" height="400" alt="currency-list-screen" src="https://github.com/user-attachments/assets/b3804415-9871-43fe-bbb8-a737bcc4fab7" />
 
 
@@ -48,6 +52,8 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - User activity monitoring
 - 3-attempt login limit
 
+- Manage Menue Screen
+
 <img width="800" height="400" alt="manage-user-menue-screen" src="https://github.com/user-attachments/assets/dea4cdb1-f581-4aa6-a30d-9d693199af6f" />
 
 **Reporting**
@@ -58,6 +64,8 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 
 <img width="800" height="400" alt="transfer-log-list-screen" src="https://github.com/user-attachments/assets/18a5cf7f-82b7-43a8-acf4-bb98c887640f" />
 
+- Login Register Screen
+  
 <img width="800" height="400" alt="login-register-screen" src="https://github.com/user-attachments/assets/0a95a43a-8e54-4b41-bea8-27fa57e713bd" />
 
 
