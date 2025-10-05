@@ -1,14 +1,19 @@
 # Bank Management System in C++
 A comprehensive C++ console banking system featuring 🔥 client management, multi-currency transactions, international transfers with IBAN/SWIFT validation, user authentication with role-based permissions, and complete transaction logging. 👌 Educational OOP project demonstrating file-based data persistence.
 
+**Login Screen**
+<img width="800" height="400" alt="login-screen" src="https://github.com/user-attachments/assets/fecb6642-0d24-4e8b-a192-8e11c9aab237" />
 
 ## Features 🔥
 
 **Client Management**
 - Add, update, delete, and search clients
 - View client list with balances
+  <img width="800" height="400" alt="client-list-screnn" src="https://github.com/user-attachments/assets/b4f437ba-8277-40ff-aba0-f451e50d492f" />
+
 - Encrypted PIN storage
 <img width="800" height="400" alt="main-menue-screen" src="https://github.com/user-attachments/assets/ad33cef2-fa33-4a5a-8011-acec01a62474" />
+
 
 **Transactions**
 - Deposit and withdrawal operations
@@ -18,6 +23,9 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Transaction logging
 
 <img width="800" height="400" alt="transactions-menue-screen" src="https://github.com/user-attachments/assets/92c99169-8171-4f38-83b1-fea06fbdc64b" />
+- International transfers log screen
+<img width="800" height="400" alt="international-transfer-log -screen" src="https://github.com/user-attachments/assets/fcf00454-c331-4c5e-9305-ebea23765b35" />
+
 
 **Currency Exchange**
 - 200+ world currencies support
@@ -25,6 +33,7 @@ A comprehensive C++ console banking system featuring 🔥 client management, mul
 - Exchange rate management
 - Currency calculator
 <img width="800" height="400" alt="currency-main-menue-screen" src="https://github.com/user-attachments/assets/62e8e8b0-207c-416d-91e3-77bef44efb71" />
+<img width="800" height="400" alt="currency-list-screen" src="https://github.com/user-attachments/assets/b3804415-9871-43fe-bbb8-a737bcc4fab7" />
 
 
 **User Management**
